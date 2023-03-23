@@ -1,5 +1,3 @@
-# Pocket Ultrasonic Range Finder Using Arduino Nano
-
 https://user-images.githubusercontent.com/100843256/227296053-ed8bd5e9-2792-4283-a651-34ced3cb44b8.mp4
 
 ---
@@ -10,7 +8,7 @@ The device is powered with a Polymer Li-Ion Single Cell Battery 3.7V, 220mAh whi
 
 This project taught me C++, Arduino programming and IoT development.
 
-## Components:
+## ⚡ Components:
 
 - Arduino Nano
 - Double Layer 7x5 Perfboard
@@ -21,11 +19,11 @@ This project taught me C++, Arduino programming and IoT development.
 - DC-DC Boost Converter 0.9V ~ 5V
 - Lithium Battery Charger (TP4056)
 
-## Circuit Schematic:
+## 📜 Circuit Schematic:
 
 <img src="https://user-images.githubusercontent.com/100843256/227301857-c813d71e-6f26-4212-b1a6-d9873c14c104.png" width="400">
 
-## Code:
+## 👨‍💻 Code:
 
 Keep in mind that the code will change based on your selection of sensors, maybe even between 2 sensors of the same type.
 
