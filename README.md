@@ -8,6 +8,8 @@ The device is powered with a Polymer Li-Ion Single Cell Battery 3.7V, 220mAh whi
 
 This project taught me C++, Arduino programming and IoT development.
 
+See the demo video here: https://youtu.be/C64T1HQPC4I
+
 ## ⚙ Technologies used:
 - C/C++
 - Arduino IDE
