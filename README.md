@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/100843256/227296053-ed8bd5e9-2792-4283
 
 ---
 
-The **PURF** is small, hand-sized Arduino project that measures the distance between itself and a still object using ultrasonic sound waves.
+The **URF** is small, hand-sized Arduino project that measures the distance between itself and a still object using ultrasonic sound waves.
 
 The device is powered with a Polymer Li-Ion Single Cell Battery 3.7V, 220mAh which allows for up to 9 hours of battery life.
 
