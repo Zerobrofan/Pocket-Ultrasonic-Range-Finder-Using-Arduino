@@ -1,6 +1,7 @@
 # Ultrasonic Range Finder
 
-https://user-images.githubusercontent.com/100843256/227296053-ed8bd5e9-2792-4283-a651-34ced3cb44b8.mp4
+https://github.com/Zerobrofan/Ultrasonic-Range-Finder-Using-Arduino/assets/100843256/080016e5-f36a-426a-86ae-895ed8ddf979
+
 
 ---
 
